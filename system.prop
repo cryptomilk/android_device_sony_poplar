@@ -1,1 +1,7 @@
-# system prop for lilac
+# system prop for maple
+
+### DISPLAY
+ro.sf.lcd_density=480
+
+### USB
+ro.usb.pid_suffix=1F3
